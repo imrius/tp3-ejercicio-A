@@ -1,0 +1,16 @@
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3_ejA2.Form1.resources
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.vbproj.GenerateResource.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.AssemblyInfoInputs.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.AssemblyInfo.vb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.vbproj.CoreCompileInputs.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\bin\Debug\net8.0-windows\tp3 ejA2.exe
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\bin\Debug\net8.0-windows\tp3 ejA2.deps.json
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\bin\Debug\net8.0-windows\tp3 ejA2.runtimeconfig.json
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\bin\Debug\net8.0-windows\tp3 ejA2.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\bin\Debug\net8.0-windows\tp3 ejA2.pdb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\refint\tp3 ejA2.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.pdb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\tp3 ejA2.genruntimeconfig.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 ejA2\obj\Debug\net8.0-windows\ref\tp3 ejA2.dll
